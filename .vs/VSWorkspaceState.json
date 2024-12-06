@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Biblioteca.Emprestimo",
+    "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo",
+    "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Controllers",
+    "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos",
+    "\\Biblioteca.Livro\\Biblioteca.Livro",
+    "\\Biblioteca.Livro\\Biblioteca.Livro\\Controllers"
+  ],
+  "SelectedNode": "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\Emprestimo.cs",
+  "PreviewInSolutionExplorer": false
+}
