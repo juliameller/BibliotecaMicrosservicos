@@ -61,11 +61,14 @@ namespace Biblioteca.Emprestimo.Services
         // Método auxiliar para verificar a disponibilidade de um livro
         private async Task<bool> VerificarDisponibilidadeLivroAsync(int livroId)
         {
-            var resposta = await _httpClient.GetAsync($"{_livrosController}disponibilidade/{livroId}");
+            var resposta = await _httpClient.GetAsync($"http://localhost:5089/api/Biblioteca/consultar/{livroId}");
             if (resposta.IsSuccessStatusCode)
             {
-                var resultado = await resposta.Content.ReadFromJsonAsync<bool>();
-                return resultado;
+                var livro = await resposta.Content.ReadFromJsonAsync<LivroDTO>();
+                if (livro != null)
+                {
+                    return livro.Disponivel;
+                }
             }
 
             return false;
