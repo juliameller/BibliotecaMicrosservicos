@@ -4,10 +4,9 @@
     "\\Biblioteca.Emprestimo",
     "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo",
     "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Controllers",
-    "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos",
-    "\\Biblioteca.Livro\\Biblioteca.Livro",
-    "\\Biblioteca.Livro\\Biblioteca.Livro\\Controllers"
+    "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO",
+    "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos"
   ],
-  "SelectedNode": "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\Emprestimo.cs",
+  "SelectedNode": "\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\ServEmprestimo.cs",
   "PreviewInSolutionExplorer": false
 }

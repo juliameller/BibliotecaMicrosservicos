@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\Emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\Emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\RegistrarEmprestimoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\RegistrarEmprestimoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\MembroDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\MembroDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\LivroDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\LivroDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\EmprestimoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\EmprestimoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\DevolverLivroDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\DevolverLivroDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\ConsultarEmprestimoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\ConsultarEmprestimoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\ServEmprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\ServEmprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Controllers\\EmprestimoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,103 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Emprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\Emprestimo.cs",
-              "RelativeDocumentMoniker": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\Emprestimo.cs",
-              "ToolTip": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\Emprestimo.cs",
-              "RelativeToolTip": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\Emprestimo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ServEmprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\ServEmprestimo.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\ServEmprestimo.cs",
+              "ToolTip": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\ServEmprestimo.cs",
+              "RelativeToolTip": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Servicos\\ServEmprestimo.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:24:36.948Z",
+              "WhenOpened": "2024-12-06T13:33:44.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegistrarEmprestimoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\RegistrarEmprestimoDTO.cs",
-              "RelativeDocumentMoniker": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\RegistrarEmprestimoDTO.cs",
-              "ToolTip": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\RegistrarEmprestimoDTO.cs",
-              "RelativeToolTip": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\RegistrarEmprestimoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:24:31.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MembroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\MembroDTO.cs",
-              "RelativeDocumentMoniker": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\MembroDTO.cs",
-              "ToolTip": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\MembroDTO.cs",
-              "RelativeToolTip": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\MembroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:24:31.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LivroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\LivroDTO.cs",
-              "RelativeDocumentMoniker": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\LivroDTO.cs",
-              "ToolTip": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\LivroDTO.cs",
-              "RelativeToolTip": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\LivroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:24:30.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmprestimoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\EmprestimoDTO.cs",
-              "RelativeDocumentMoniker": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\EmprestimoDTO.cs",
-              "ToolTip": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\EmprestimoDTO.cs",
-              "RelativeToolTip": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\EmprestimoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:24:29.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DevolverLivroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\DevolverLivroDTO.cs",
-              "RelativeDocumentMoniker": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\DevolverLivroDTO.cs",
-              "ToolTip": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\DevolverLivroDTO.cs",
-              "RelativeToolTip": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\DevolverLivroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:24:28.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConsultarEmprestimoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\ConsultarEmprestimoDTO.cs",
-              "RelativeDocumentMoniker": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\ConsultarEmprestimoDTO.cs",
-              "ToolTip": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\ConsultarEmprestimoDTO.cs",
-              "RelativeToolTip": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\DTO\\ConsultarEmprestimoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:24:25.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "EmprestimoController.cs",
               "DocumentMoniker": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Controllers\\EmprestimoController.cs",
               "RelativeDocumentMoniker": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Controllers\\EmprestimoController.cs",
               "ToolTip": "C:\\Users\\joao.vamerlati\\Desktop\\BibliotecaMicrosservicos\\Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Controllers\\EmprestimoController.cs",
               "RelativeToolTip": "Biblioteca.Emprestimo\\Biblioteca.Emprestimo\\Controllers\\EmprestimoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:13:33.677Z",
               "EditorCaption": ""
