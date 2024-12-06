@@ -1,7 +1,5 @@
-﻿using Biblioteca.Emprestimo;
+﻿using Biblioteca.Emprestimo.DTO;
 using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
-using Biblioteca.Emprestimo.DTO;
 
 namespace Biblioteca.Emprestimo.Controllers
 {
@@ -16,8 +14,7 @@ namespace Biblioteca.Emprestimo.Controllers
             _servEmprestimo = servEmprestimo;
         }
 
-        [HttpPost]
-        [Route("iniciar")]
+        [HttpPost("iniciar")]
         public async Task<IActionResult> IniciarEmprestimo([FromBody] EmprestimoDTO request)
         {
             var resultado = await _servEmprestimo.IniciarEmprestimo(request);
@@ -26,8 +23,7 @@ namespace Biblioteca.Emprestimo.Controllers
             return BadRequest(resultado.Mensagem);
         }
 
-        [HttpPost]
-        [Route("devolver")]
+        [HttpPost("devolver")]
         public async Task<IActionResult> DevolverLivro([FromBody] DevolverLivroDTO request)
         {
             var resultado = await _servEmprestimo.DevolverLivro(request);
@@ -36,8 +32,7 @@ namespace Biblioteca.Emprestimo.Controllers
             return BadRequest(resultado.Mensagem);
         }
 
-        [HttpGet]
-        [Route("consultar/{membroId}")]
+        [HttpGet("consultar/{membroId}")]
         public async Task<IActionResult> ConsultarEmprestimos(string membroId)
         {
             var emprestimos = await _servEmprestimo.ConsultarEmprestimosPorMembro(membroId);
