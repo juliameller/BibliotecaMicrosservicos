@@ -12,9 +12,9 @@ builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
 
-builder.Services.AddScoped<ServEmprestimo>();
+//builder.Services.AddScoped<ServEmprestimo>();
 builder.Services.AddScoped<ServLivro>();
-builder.Services.AddScoped<ServMembro>();
+//builder.Services.AddScoped<ServMembro>();
 
 builder.Services.AddMemoryCache();
 
@@ -39,6 +39,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
 
-GeradorDeServicos.ServiceProvider = app.Services;
+GeradorDeServicos.ServiceProvider = builder.Services.BuildServiceProvider();
 
 app.Run();

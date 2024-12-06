@@ -1,4 +1,5 @@
 using Biblioteca.Emprestimo;
+using Biblioteca.Emprestimo.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,8 +15,8 @@ builder.Services.AddSwaggerGen(c =>
         Version = "v1"
     });
 
-    var xmlFilename = $"{System.Reflection.Assembly.GetExecutingAssembly().GetName().Name}.xml";
-    c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
+    //var xmlFilename = $"{System.Reflection.Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    //c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 });
 
 builder.Services.AddDbContext<DataContext>(options =>

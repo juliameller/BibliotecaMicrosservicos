@@ -1,4 +1,5 @@
 ﻿using Biblioteca.Emprestimo.DTO;
+using Biblioteca.Emprestimo.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Biblioteca.Emprestimo.Controllers
@@ -33,7 +34,7 @@ namespace Biblioteca.Emprestimo.Controllers
         }
 
         [HttpGet("consultar/{membroId}")]
-        public async Task<IActionResult> ConsultarEmprestimos(string membroId)
+        public async Task<IActionResult> ConsultarEmprestimos(int membroId)
         {
             var emprestimos = await _servEmprestimo.ConsultarEmprestimosPorMembro(membroId);
             return Ok(emprestimos);
